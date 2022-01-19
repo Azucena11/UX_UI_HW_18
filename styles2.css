@@ -1,32 +1,28 @@
-
-  body {
-    background-color: rgb(102, 102, 102);
+body {
+    background-color: rgb(255, 255, 255);
   }
-
-
-  p1 {  display: inline-block;
-    font-size: 60px;
+  h1 {  display: inline-block;
+    font-size: 40px;
     padding-top: 20px; 
     padding-left: 500px; 
     padding-right: 500px;
-    color:rgb(255, 255, 255)}
+    color:rgb(0, 0, 0)}
 
-    p2 {  display: inline-block;
+  p {  display: inline-block;
+    font-size: 25px;
+    padding-top: 20px; 
+    padding-left: 500px; 
+    padding-right: 500px;
+    color:rgb(0, 0, 0)}
+
+    p1 {  display: inline-block;
         font-size: 35px;
         padding-top: 5px; 
         padding-left: 500px; 
         padding-right: 500px;
-    color:rgb(255, 255, 255)}
+    color:rgb(0, 0, 0)}
+
     
-
-        p3 {  display: inline-block;
-            font-size: 20px;
-            padding-top: 5px; 
-            padding-left: 500px; 
-            padding-right: 500px;
-            color:rgb(255, 119, 8)
-        }
-
         footer {
             background-color: rgb(255, 255, 255);
             list-style-type: none;
@@ -35,23 +31,17 @@
             margin: 0;
           }
           
+          
+
+     
+
           footer li {
             display: inline-block;
             font-size: 50px;
             padding: 20px;
           }
 
-         section3 {
-            background-color: rgb(255, 255, 255);
-            list-style-type: none;
-            text-align: center; 
-            padding: 0;
-            margin: 0;
-            font-size: 50px;
-            padding: 20px;
-            color:rgb(255, 255, 255)
-          }
-
+         
     /* Style the navigation menu */
 nav {
     width: 100%;
@@ -88,6 +78,8 @@ nav {
       width: 100%;
       text-align: center; /* If you want the text to be left-aligned on small screens */
     }
-  }      
+  } 
+  
+
 
      
